@@ -1,0 +1,34 @@
+["INFO" - 15:59:38] Extension Name: "prettier-vscode".
+["INFO" - 15:59:38] Extension Version: "3.18.0".
+["INFO" - 15:59:39] Loaded module 'prettier@1.19.1' from '/home/anna/bootcamp2019/GoBarber/node_modules/prettier/index.js'
+["INFO" - 15:59:39] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 15:59:39] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 15:59:51] Loaded module 'prettier@1.19.1' from '/home/anna/bootcamp2019/GoBarber/node_modules/prettier/index.js'

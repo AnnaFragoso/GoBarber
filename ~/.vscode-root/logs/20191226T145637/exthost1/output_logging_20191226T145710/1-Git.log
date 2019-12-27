@@ -1,0 +1,60 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/anna
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse feature/Doctors
+> git rev-parse --symbolic-full-name feature/Doctors@{u}
+fatal: no upstream configured for branch 'feature/Doctors'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :bootcamp2019/GoBarber/package.json
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :bootcamp2019/GoBarber/.eslintrc.js
+> git check-ignore -v -z --stdin
+> git show :bootcamp2019/GoBarber/src/app.js
+> git show :bootcamp2019/GoBarber/.eslintrc.js
+> git show :bootcamp2019/GoBarber/src/app.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :bootcamp2019/GoBarber/src/prettierrc
+> git check-ignore -v -z --stdin
+> git show :bootcamp2019/GoBarber/prettierrc
+> git check-ignore -v -z --stdin
+> git show :bootcamp2019/GoBarber/prettierrc
+> git show :bootcamp2019/GoBarber/editorconfig
+> git check-ignore -v -z --stdin
+> git show :bootcamp2019/GoBarber/database.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :bootcamp2019/GoBarber/.sequelizerc
+> git check-ignore -v -z --stdin
+> git show :bootcamp2019/GoBarber/database.js
+> git show :bootcamp2019/GoBarber/.sequelizerc
+> git show :bootcamp2019/GoBarber/database.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :bootcamp2019/GoBarber/src/database/migrations/20191226191350-create-users.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :bootcamp2019/GoBarber/src/config/database.js
+> git show :bootcamp2019/GoBarber/src/app.js
+> git show :bootcamp2019/GoBarber/src/routes.js
+> git show :bootcamp2019/GoBarber/src/server.js
+> git show :bootcamp2019/GoBarber/src/config/database.js
+> git show :bootcamp2019/GoBarber/.sequelizerc
+> git show :bootcamp2019/GoBarber/src/database/migrations/20191226191350-create-users.js
+> git show :bootcamp2019/GoBarber/src/config/database.js
