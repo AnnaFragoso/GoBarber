@@ -1,0 +1,42 @@
+[2019-12-27 17:53:06.151] [exthost] [info] extension host started
+[2019-12-27 17:53:06.297] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2019-12-27 17:53:06.298] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/22/usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-12-27 17:53:06.324] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2019-12-27 17:53:06.325] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/22/usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-12-27 17:53:06.510] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2019-12-27 17:53:06.511] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/22/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-12-27 17:53:06.656] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-12-27 17:53:06.657] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/22/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-12-27 17:53:06.659] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-12-27 17:53:06.666] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/22/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-12-27 17:53:06.698] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-12-27 17:53:06.700] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/22/usr/share/code/resources/app/extensions/git/dist/main
+[2019-12-27 17:53:06.756] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-12-27 17:53:06.757] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/22/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-12-27 17:53:06.775] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2019-12-27 17:53:06.775] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/22/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2019-12-27 17:53:06.778] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2019-12-27 17:53:06.778] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2019-12-27 17:53:06.841] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2019-12-27 17:53:06.841] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/dbaeumer.vscode-eslint-2.0.11/client/out/extension
+[2019-12-27 17:53:06.895] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2019-12-27 17:53:06.895] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/editorconfig.editorconfig-0.14.4/out/editorConfigMain.js
+[2019-12-27 17:53:07.017] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2019-12-27 17:53:07.018] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/esbenp.prettier-vscode-3.18.0/dist/extension
+[2019-12-27 17:53:07.080] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"extensionId":{"value":"naumovs.color-highlight","_lower":"naumovs.color-highlight"},"activationEvent":"*"}
+[2019-12-27 17:53:07.080] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2019-12-27 17:53:07.099] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2019-12-27 17:53:07.099] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/pkief.material-icon-theme-3.9.2/dist/extension
+[2019-12-27 17:53:07.121] [exthost] [info] ExtensionService#_doActivateExtension remimarsal.prettier-now {"startup":true,"extensionId":{"value":"remimarsal.prettier-now","_lower":"remimarsal.prettier-now"},"activationEvent":"*"}
+[2019-12-27 17:53:07.121] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/remimarsal.prettier-now-1.4.9/out/src/extension
+[2019-12-27 17:53:07.170] [exthost] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight {"startup":true,"extensionId":{"value":"wayou.vscode-todo-highlight","_lower":"wayou.vscode-todo-highlight"},"activationEvent":"*"}
+[2019-12-27 17:53:07.170] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/wayou.vscode-todo-highlight-1.0.4/src/extension
+[2019-12-27 17:53:07.181] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2019-12-27 17:53:07.181] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/22/usr/share/code/resources/app/extensions/npm/dist/main
+[2019-12-27 17:53:07.619] [exthost] [info] eager extensions activated
+[2019-12-27 17:54:36.812] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2019-12-27 17:54:36.813] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/22/usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-12-27 17:54:55.416] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2019-12-27 17:54:55.421] [exthost] [error] Error: DisposableStore is missing...
+	at L._convertCompletionItem (/snap/code/22/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:584:351)
+	at /snap/code/22/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:583:984
