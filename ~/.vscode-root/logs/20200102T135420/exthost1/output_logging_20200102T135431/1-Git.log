@@ -2103,3 +2103,21 @@ fatal: no upstream configured for branch 'branch1'
 > git show :src/app/controllers/SessionController.js
 > git show :src/app/middlewares/auth.js
 > git show :src/app/models/User.js
+> git status -z -u
+> git show :src/app/models/User.js
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+> git show :src/app/models/User.js
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
