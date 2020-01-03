@@ -1,0 +1,48 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/anna/bootcamp2019/GoBarber
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :.vscode/launch.json
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :src/database/index.js
+> git check-ignore -v -z --stdin
+> git show :.sequelizerc
+> git check-ignore -v -z --stdin
+> git show :nodemon.json
+> git show :src/app.js
+> git show :src/routes.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :.sequelizerc
+> git show :nodemon.json
+> git show :src/app.js
+> git show :src/routes.js
+> git show :src/database/index.js
+> git show :src/app/models/User.js
+> git show :.vscode/launch.json
+> git show :src/app/models/User.js
+> git show :.vscode/launch.json
+> git show :src/app/models/User.js

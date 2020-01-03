@@ -1401,5 +1401,19 @@
     },
     "theme": "vs-dark",
     "themeBackground": "#1e1e1e",
-    "pickerWorkingDir": "/home/anna/bootcamp2019"
+    "pickerWorkingDir": "/home/anna/bootcamp2019",
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/anna/bootcamp2019/GoBarber",
+            "backupPath": "/home/anna/bootcamp2019/GoBarber/~/.vscode-root/Backups/98994023f19557a1983db18dd5d68e38",
+            "uiState": {
+                "mode": 0,
+                "x": 217,
+                "y": 57,
+                "width": 805,
+                "height": 711
+            }
+        },
+        "openedWindows": []
+    }
 }
