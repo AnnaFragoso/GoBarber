@@ -130,3 +130,11 @@ TypeError: Cannot read property 'emitNode' of undefined
 	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
 [2020-01-05 14:43:05.217] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
 [2020-01-05 14:43:05.226] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/23/usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2020-01-05 14:58:43.978] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-01-05 14:58:43.978] [exthost] [error] Error: DisposableStore is missing...
+	at L._convertCompletionItem (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:584:351)
+	at /snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:583:984
+[2020-01-05 15:15:06.155] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-01-05 15:15:06.155] [exthost] [error] Error: DisposableStore is missing...
+	at L._convertCompletionItem (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:584:351)
+	at /snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:583:984
