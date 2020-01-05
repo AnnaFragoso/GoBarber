@@ -234,3 +234,7 @@ TypeError: Cannot read property 'emitNode' of undefined
 [2020-01-03 15:31:16.836] [exthost] [error] Error: DisposableStore is missing...
 	at L._convertCompletionItem (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:584:351)
 	at /snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:583:984
+[2020-01-05 13:39:08.800] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-01-05 13:39:08.800] [exthost] [error] Error: DisposableStore is missing...
+	at L._convertCompletionItem (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:584:351)
+	at /snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:583:984
