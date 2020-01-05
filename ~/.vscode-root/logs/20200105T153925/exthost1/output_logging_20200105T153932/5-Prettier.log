@@ -1,0 +1,40 @@
+["INFO" - 15:39:32] Extension Name: "prettier-vscode".
+["INFO" - 15:39:32] Extension Version: "3.18.0".
+["INFO" - 15:39:32] Loaded module 'prettier@1.19.1' from '/home/anna/bootcamp2019/GoBarber/node_modules/prettier/index.js'
+["INFO" - 15:39:32] Loaded module 'prettier@1.19.1' from '/home/anna/bootcamp2019/GoBarber/node_modules/prettier/index.js'
+["INFO" - 15:39:32] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 15:39:32] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 15:40:31] Loaded module 'prettier@1.19.1' from '/home/anna/bootcamp2019/GoBarber/node_modules/prettier/index.js'
+["INFO" - 15:42:24] Loaded module 'prettier@1.19.1' from '/home/anna/bootcamp2019/GoBarber/node_modules/prettier/index.js'
+["INFO" - 15:42:42] Loaded module 'prettier@1.19.1' from '/home/anna/bootcamp2019/GoBarber/node_modules/prettier/index.js'
+["INFO" - 15:42:52] Loaded module 'prettier@1.19.1' from '/home/anna/bootcamp2019/GoBarber/node_modules/prettier/index.js'
+["INFO" - 15:45:09] Loaded module 'prettier@1.19.1' from '/home/anna/bootcamp2019/GoBarber/node_modules/prettier/index.js'
+["INFO" - 15:50:39] Loaded module 'prettier@1.19.1' from '/home/anna/bootcamp2019/GoBarber/node_modules/prettier/index.js'

@@ -1,0 +1,64 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/anna/bootcamp2019/GoBarber
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+> git show :src/app/models/File.js
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :src/app.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :node_modules/pirates/lib/index.js
+> git check-ignore -v -z --stdin
+> git show :src/app.js
+> git check-ignore -v -z --stdin
+> git show :src/app/models/File.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/models/File.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template

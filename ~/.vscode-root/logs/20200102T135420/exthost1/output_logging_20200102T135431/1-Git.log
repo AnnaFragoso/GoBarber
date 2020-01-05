@@ -2914,3 +2914,207 @@ fatal: no upstream configured for branch 'branch1'
 > git for-each-ref --format %(refname) %(objectname) --sort -committerdate
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git show :src/database/index.js
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git show :src/database/index.js
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/routes.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/controllers/ProviderController.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/controllers/FileController.js
+> git show :src/app/controllers/ProviderController.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/controllers/FileController.js
+> git show :src/database/index.js
+> git show :src/app/models/User.js
+> git show :src/app/models/File.js
+> git show :src/app/controllers/ProviderController.js
+> git show :src/app/models/User.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/controllers/ProviderController.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/models/File.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/models/User.js
+> git show :src/database/index.js
+> git show :src/app/controllers/FileController.js
+> git show :src/app/controllers/ProviderController.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/app/models/File.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
