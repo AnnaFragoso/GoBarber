@@ -1354,3 +1354,40 @@ fatal: no upstream configured for branch 'branch1'
 > git for-each-ref --format %(refname) %(objectname) --sort -committerdate
 > git remote --verbose
 > git config --get commit.template
+> git status -z -u
+> git show :src/app/controllers/ScheduleController.js
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git show :src/app/controllers/ScheduleController.js
+> git symbolic-ref --short HEAD
+> git rev-parse branch1
+> git rev-parse --symbolic-full-name branch1@{u}
+fatal: no upstream configured for branch 'branch1'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :src/database/index.js
+> git check-ignore -v -z --stdin
+> git show :node_modules/sequelize/lib/dialects/postgres/connection-manager.js
+> git check-ignore -v -z --stdin
+> git show :node_modules/sequelize/lib/dialects/postgres/index.js
+> git check-ignore -v -z --stdin
+> git show :node_modules/sequelize/lib/sequelize.js
+> git show :src/database/index.js
+> git check-ignore -v -z --stdin
+> git show :src/app/schemas/Notifications.js
+> git check-ignore -v -z --stdin
+> git show :src/app/schemas/Notification.js
+> git check-ignore -v -z --stdin
+> git show :src/database/index.js
+> git show :src/app/schemas/Notification.js
+> git show :node_modules/sequelize/lib/dialects/postgres/connection-manager.js
+> git show :src/app/schemas/Notification.js
+> git check-ignore -v -z --stdin
+> git show :src/app/controllers/AppointmentController.js
