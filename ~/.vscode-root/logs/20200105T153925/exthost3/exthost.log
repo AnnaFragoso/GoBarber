@@ -1,0 +1,58 @@
+[2020-01-07 12:51:23.693] [exthost] [info] extension host started
+[2020-01-07 12:51:23.778] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-01-07 12:51:23.779] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/23/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-01-07 12:51:23.795] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-01-07 12:51:23.795] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/23/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-01-07 12:51:23.843] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-01-07 12:51:23.844] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/23/usr/share/code/resources/app/extensions/git/dist/main
+[2020-01-07 12:51:24.147] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-01-07 12:51:24.147] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/23/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-01-07 12:51:24.166] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-01-07 12:51:24.166] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/23/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-01-07 12:51:24.177] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-01-07 12:51:24.177] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-01-07 12:51:24.247] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-01-07 12:51:24.247] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/dbaeumer.vscode-eslint-2.0.11/client/out/extension
+[2020-01-07 12:51:24.282] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2020-01-07 12:51:24.282] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/editorconfig.editorconfig-0.14.4/out/editorConfigMain.js
+[2020-01-07 12:51:24.371] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-01-07 12:51:24.371] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/esbenp.prettier-vscode-3.18.0/dist/extension
+[2020-01-07 12:51:24.505] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"extensionId":{"value":"naumovs.color-highlight","_lower":"naumovs.color-highlight"},"activationEvent":"*"}
+[2020-01-07 12:51:24.505] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2020-01-07 12:51:24.520] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-01-07 12:51:24.521] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/pkief.material-icon-theme-3.9.2/dist/extension
+[2020-01-07 12:51:24.538] [exthost] [info] ExtensionService#_doActivateExtension remimarsal.prettier-now {"startup":true,"extensionId":{"value":"remimarsal.prettier-now","_lower":"remimarsal.prettier-now"},"activationEvent":"*"}
+[2020-01-07 12:51:24.538] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/remimarsal.prettier-now-1.4.9/out/src/extension
+[2020-01-07 12:51:24.613] [exthost] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight {"startup":true,"extensionId":{"value":"wayou.vscode-todo-highlight","_lower":"wayou.vscode-todo-highlight"},"activationEvent":"*"}
+[2020-01-07 12:51:24.613] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/wayou.vscode-todo-highlight-1.0.4/src/extension
+[2020-01-07 12:51:24.619] [exthost] [info] eager extensions activated
+[2020-01-07 12:51:48.914] [exthost] [info] extension host started
+[2020-01-07 12:51:49.104] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-01-07 12:51:49.105] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/23/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-01-07 12:51:49.128] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-01-07 12:51:49.128] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/23/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-01-07 12:51:49.150] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-01-07 12:51:49.150] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/23/usr/share/code/resources/app/extensions/git/dist/main
+[2020-01-07 12:51:49.312] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-01-07 12:51:49.313] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/23/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-01-07 12:51:49.328] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-01-07 12:51:49.328] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/23/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-01-07 12:51:49.332] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-01-07 12:51:49.341] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-01-07 12:51:49.439] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-01-07 12:51:49.439] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/dbaeumer.vscode-eslint-2.0.11/client/out/extension
+[2020-01-07 12:51:49.475] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2020-01-07 12:51:49.475] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/editorconfig.editorconfig-0.14.4/out/editorConfigMain.js
+[2020-01-07 12:51:49.579] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-01-07 12:51:49.584] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/esbenp.prettier-vscode-3.18.0/dist/extension
+[2020-01-07 12:51:49.708] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"extensionId":{"value":"naumovs.color-highlight","_lower":"naumovs.color-highlight"},"activationEvent":"*"}
+[2020-01-07 12:51:49.709] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2020-01-07 12:51:49.808] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-01-07 12:51:49.811] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/pkief.material-icon-theme-3.9.2/dist/extension
+[2020-01-07 12:51:49.824] [exthost] [info] ExtensionService#_doActivateExtension remimarsal.prettier-now {"startup":true,"extensionId":{"value":"remimarsal.prettier-now","_lower":"remimarsal.prettier-now"},"activationEvent":"*"}
+[2020-01-07 12:51:49.824] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/remimarsal.prettier-now-1.4.9/out/src/extension
+[2020-01-07 12:51:49.874] [exthost] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight {"startup":true,"extensionId":{"value":"wayou.vscode-todo-highlight","_lower":"wayou.vscode-todo-highlight"},"activationEvent":"*"}
+[2020-01-07 12:51:49.874] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/wayou.vscode-todo-highlight-1.0.4/src/extension
+[2020-01-07 12:51:49.881] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-01-07 12:51:49.881] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/23/usr/share/code/resources/app/extensions/npm/dist/main
+[2020-01-07 12:51:50.236] [exthost] [info] eager extensions activated
