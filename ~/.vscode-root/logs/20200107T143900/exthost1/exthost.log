@@ -1,0 +1,362 @@
+[2020-01-07 13:39:06.574] [exthost] [info] extension host started
+[2020-01-07 13:39:06.800] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2020-01-07 13:39:06.802] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2020-01-07 13:39:06.969] [exthost] [info] ExtensionService#_doActivateExtension remimarsal.prettier-now {"startup":false,"extensionId":{"value":"remimarsal.prettier-now","_lower":"remimarsal.prettier-now"},"activationEvent":"onLanguage:javascript"}
+[2020-01-07 13:39:06.969] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/remimarsal.prettier-now-1.4.9/out/src/extension
+[2020-01-07 13:39:07.069] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-01-07 13:39:07.075] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/23/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-01-07 13:39:07.084] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-01-07 13:39:07.084] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/23/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-01-07 13:39:07.170] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-01-07 13:39:07.171] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/23/usr/share/code/resources/app/extensions/git/dist/main
+[2020-01-07 13:39:07.446] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-01-07 13:39:07.447] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/23/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-01-07 13:39:07.455] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-01-07 13:39:07.456] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/23/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-01-07 13:39:07.463] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-01-07 13:39:07.464] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-01-07 13:39:07.544] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-01-07 13:39:07.544] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/dbaeumer.vscode-eslint-2.0.11/client/out/extension
+[2020-01-07 13:39:07.637] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2020-01-07 13:39:07.637] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/editorconfig.editorconfig-0.14.4/out/editorConfigMain.js
+[2020-01-07 13:39:07.795] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-01-07 13:39:07.795] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/esbenp.prettier-vscode-3.18.0/dist/extension
+[2020-01-07 13:39:08.119] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight {"startup":true,"extensionId":{"value":"naumovs.color-highlight","_lower":"naumovs.color-highlight"},"activationEvent":"*"}
+[2020-01-07 13:39:08.119] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/naumovs.color-highlight-2.3.0/dist/extension
+[2020-01-07 13:39:08.139] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-01-07 13:39:08.139] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/pkief.material-icon-theme-3.9.2/dist/extension
+[2020-01-07 13:39:08.163] [exthost] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight {"startup":true,"extensionId":{"value":"wayou.vscode-todo-highlight","_lower":"wayou.vscode-todo-highlight"},"activationEvent":"*"}
+[2020-01-07 13:39:08.164] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/anna/.vscode/extensions/wayou.vscode-todo-highlight-1.0.4/src/extension
+[2020-01-07 13:39:08.174] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-01-07 13:39:08.175] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/23/usr/share/code/resources/app/extensions/npm/dist/main
+[2020-01-07 13:39:09.563] [exthost] [info] eager extensions activated
+[2020-01-07 13:40:11.383] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2020-01-07 13:40:11.383] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/23/usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2020-01-07 13:41:33.855] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:handlebars"}
+[2020-01-07 13:41:33.855] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/23/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2020-01-07 13:58:58.839] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-01-07 13:58:58.843] [exthost] [error] Error: <semantic> TypeScript Server Error (3.7.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (tsserver.js:69029:29)
+    at emitNodeList (tsserver.js:92885:51)
+    at emitList (tsserver.js:92764:13)
+    at Object.writeList (tsserver.js:90188:13)
+    at tsserver.js:115321:29
+    at Object.mapToDisplayParts (tsserver.js:103874:13)
+    at itemInfoForParameters (tsserver.js:115318:41)
+    at getSignatureHelpItem (tsserver.js:115284:95)
+    at tsserver.js:115257:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (tsserver.js:115257:36)
+    at tsserver.js:114916:120
+    at Object.runWithCancellationToken (tsserver.js:33393:28)
+    at tsserver.js:114916:44
+    at Object.firstDefined (tsserver.js:200:26)
+    at tsserver.js:114912:27
+    at Object.firstDefined (tsserver.js:200:26)
+    at createJSSignatureHelpItems (tsserver.js:114911:56)
+    at Object.getSignatureHelpItems (tsserver.js:114845:56)
+    at Object.getSignatureHelpItems (tsserver.js:130926:37)
+    at IOSession.Session.getSignatureHelpItems (tsserver.js:140489:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (tsserver.js:139415:61)
+    at tsserver.js:140929:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:140920:28)
+    at IOSession.Session.executeCommand (tsserver.js:140929:33)
+    at IOSession.Session.onMessage (tsserver.js:140952:35)
+    at Interface.<anonymous> (tsserver.js:142267:27)
+    at Interface.emit (events.js:200:13)
+    at Interface._onLine (readline.js:314:10)
+    at Interface._normalWrite (readline.js:459:12)
+    at Socket.ondata (readline.js:170:10)
+    at Socket.emit (events.js:200:13)
+    at addChunk (_stream_readable.js:294:12)
+    at readableAddChunk (_stream_readable.js:275:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:47388)
+	at h.dispatchResponse (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:206557)
+	at h.dispatchMessage (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:205455)
+	at /snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:204931
+	at l.fire (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:893)
+	at t.Reader.onLengthData (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:212021)
+	at Socket.<anonymous> (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:211669)
+	at Socket.emit (events.js:200:13)
+	at addChunk (_stream_readable.js:294:12)
+	at readableAddChunk (_stream_readable.js:275:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-01-07 13:59:08.614] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-01-07 13:59:08.614] [exthost] [error] Error: <semantic> TypeScript Server Error (3.7.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (tsserver.js:69029:29)
+    at emitNodeList (tsserver.js:92885:51)
+    at emitList (tsserver.js:92764:13)
+    at Object.writeList (tsserver.js:90188:13)
+    at tsserver.js:115321:29
+    at Object.mapToDisplayParts (tsserver.js:103874:13)
+    at itemInfoForParameters (tsserver.js:115318:41)
+    at getSignatureHelpItem (tsserver.js:115284:95)
+    at tsserver.js:115257:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (tsserver.js:115257:36)
+    at tsserver.js:114849:23
+    at Object.runWithCancellationToken (tsserver.js:33393:28)
+    at Object.getSignatureHelpItems (tsserver.js:114847:32)
+    at Object.getSignatureHelpItems (tsserver.js:130926:37)
+    at IOSession.Session.getSignatureHelpItems (tsserver.js:140489:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (tsserver.js:139415:61)
+    at tsserver.js:140929:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:140920:28)
+    at IOSession.Session.executeCommand (tsserver.js:140929:33)
+    at IOSession.Session.onMessage (tsserver.js:140952:35)
+    at Interface.<anonymous> (tsserver.js:142267:27)
+    at Interface.emit (events.js:200:13)
+    at Interface._onLine (readline.js:314:10)
+    at Interface._normalWrite (readline.js:459:12)
+    at Socket.ondata (readline.js:170:10)
+    at Socket.emit (events.js:200:13)
+    at addChunk (_stream_readable.js:294:12)
+    at readableAddChunk (_stream_readable.js:275:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:47388)
+	at h.dispatchResponse (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:206557)
+	at h.dispatchMessage (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:205455)
+	at /snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:204931
+	at l.fire (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:893)
+	at t.Reader.onLengthData (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:212021)
+	at Socket.<anonymous> (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:211669)
+	at Socket.emit (events.js:200:13)
+	at addChunk (_stream_readable.js:294:12)
+	at readableAddChunk (_stream_readable.js:275:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-01-07 13:59:40.435] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-01-07 13:59:40.435] [exthost] [error] Error: <semantic> TypeScript Server Error (3.7.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (tsserver.js:69029:29)
+    at emitNodeList (tsserver.js:92885:51)
+    at emitList (tsserver.js:92764:13)
+    at Object.writeList (tsserver.js:90188:13)
+    at tsserver.js:115321:29
+    at Object.mapToDisplayParts (tsserver.js:103874:13)
+    at itemInfoForParameters (tsserver.js:115318:41)
+    at getSignatureHelpItem (tsserver.js:115284:95)
+    at tsserver.js:115257:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (tsserver.js:115257:36)
+    at tsserver.js:114849:23
+    at Object.runWithCancellationToken (tsserver.js:33393:28)
+    at Object.getSignatureHelpItems (tsserver.js:114847:32)
+    at Object.getSignatureHelpItems (tsserver.js:130926:37)
+    at IOSession.Session.getSignatureHelpItems (tsserver.js:140489:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (tsserver.js:139415:61)
+    at tsserver.js:140929:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:140920:28)
+    at IOSession.Session.executeCommand (tsserver.js:140929:33)
+    at IOSession.Session.onMessage (tsserver.js:140952:35)
+    at Interface.<anonymous> (tsserver.js:142267:27)
+    at Interface.emit (events.js:200:13)
+    at Interface._onLine (readline.js:314:10)
+    at Interface._normalWrite (readline.js:459:12)
+    at Socket.ondata (readline.js:170:10)
+    at Socket.emit (events.js:200:13)
+    at addChunk (_stream_readable.js:294:12)
+    at readableAddChunk (_stream_readable.js:275:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:47388)
+	at h.dispatchResponse (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:206557)
+	at h.dispatchMessage (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:205455)
+	at /snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:204931
+	at l.fire (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:893)
+	at t.Reader.onLengthData (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:212021)
+	at Socket.<anonymous> (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:211669)
+	at Socket.emit (events.js:200:13)
+	at addChunk (_stream_readable.js:294:12)
+	at readableAddChunk (_stream_readable.js:275:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-01-07 13:59:44.895] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-01-07 13:59:44.898] [exthost] [error] Error: <semantic> TypeScript Server Error (3.7.3)
+Cannot read property 'emitNode' of undefined
+TypeError: Cannot read property 'emitNode' of undefined
+    at Object.getCommentRange (tsserver.js:69029:29)
+    at emitNodeList (tsserver.js:92885:51)
+    at emitList (tsserver.js:92764:13)
+    at Object.writeList (tsserver.js:90188:13)
+    at tsserver.js:115321:29
+    at Object.mapToDisplayParts (tsserver.js:103874:13)
+    at itemInfoForParameters (tsserver.js:115318:41)
+    at getSignatureHelpItem (tsserver.js:115284:95)
+    at tsserver.js:115257:79
+    at Array.map (<anonymous>)
+    at createSignatureHelpItems (tsserver.js:115257:36)
+    at tsserver.js:114916:120
+    at Object.runWithCancellationToken (tsserver.js:33393:28)
+    at tsserver.js:114916:44
+    at Object.firstDefined (tsserver.js:200:26)
+    at tsserver.js:114912:27
+    at Object.firstDefined (tsserver.js:200:26)
+    at createJSSignatureHelpItems (tsserver.js:114911:56)
+    at Object.getSignatureHelpItems (tsserver.js:114845:56)
+    at Object.getSignatureHelpItems (tsserver.js:130926:37)
+    at IOSession.Session.getSignatureHelpItems (tsserver.js:140489:62)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (tsserver.js:139415:61)
+    at tsserver.js:140929:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:140920:28)
+    at IOSession.Session.executeCommand (tsserver.js:140929:33)
+    at IOSession.Session.onMessage (tsserver.js:140952:35)
+    at Interface.<anonymous> (tsserver.js:142267:27)
+    at Interface.emit (events.js:200:13)
+    at Interface._onLine (readline.js:314:10)
+    at Interface._normalWrite (readline.js:459:12)
+    at Socket.ondata (readline.js:170:10)
+    at Socket.emit (events.js:200:13)
+    at addChunk (_stream_readable.js:294:12)
+    at readableAddChunk (_stream_readable.js:275:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:47388)
+	at h.dispatchResponse (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:206557)
+	at h.dispatchMessage (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:205455)
+	at /snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:204931
+	at l.fire (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:893)
+	at t.Reader.onLengthData (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:212021)
+	at Socket.<anonymous> (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:211669)
+	at Socket.emit (events.js:200:13)
+	at addChunk (_stream_readable.js:294:12)
+	at readableAddChunk (_stream_readable.js:275:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-01-07 14:00:52.544] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-01-07 14:00:52.544] [exthost] [error] Error: DisposableStore is missing...
+	at L._convertCompletionItem (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:584:351)
+	at /snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:583:984
+[2020-01-07 14:01:07.268] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-01-07 14:01:07.269] [exthost] [error] Error: DisposableStore is missing...
+	at L._convertCompletionItem (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:584:351)
+	at /snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:583:984
+[2020-01-07 14:22:33.015] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-01-07 14:22:33.015] [exthost] [error] Error: <syntax> TypeScript Server Error (3.7.3)
+Debug Failure. Did not expect ClassDeclaration to have an Identifier in its trivia
+Error: Debug Failure. Did not expect ClassDeclaration to have an Identifier in its trivia
+    at addSyntheticNodes (tsserver.js:129745:30)
+    at createChildren (tsserver.js:129734:9)
+    at NodeObject.getChildren (tsserver.js:129678:56)
+    at Object.findChildOfKind (tsserver.js:102923:26)
+    at spanForNode (tsserver.js:113610:36)
+    at getOutliningSpanForNode (tsserver.js:113568:28)
+    at visitNonImportNode (tsserver.js:113425:28)
+    at addNodeOutliningSpans (tsserver.js:113400:21)
+    at Object.collectElements (tsserver.js:113388:13)
+    at Object.getOutliningSpans (tsserver.js:131024:50)
+    at IOSession.Session.getOutliningSpans (tsserver.js:140256:45)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (tsserver.js:139352:61)
+    at tsserver.js:140929:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:140920:28)
+    at IOSession.Session.executeCommand (tsserver.js:140929:33)
+    at IOSession.Session.onMessage (tsserver.js:140952:35)
+    at Interface.<anonymous> (tsserver.js:142267:27)
+    at Interface.emit (events.js:200:13)
+    at Interface._onLine (readline.js:314:10)
+    at Interface._normalWrite (readline.js:459:12)
+    at Socket.ondata (readline.js:170:10)
+    at Socket.emit (events.js:200:13)
+    at addChunk (_stream_readable.js:294:12)
+    at readableAddChunk (_stream_readable.js:275:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:47388)
+	at h.dispatchResponse (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:206557)
+	at h.dispatchMessage (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:205455)
+	at /snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:204931
+	at l.fire (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:893)
+	at t.Reader.onLengthData (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:212021)
+	at Socket.<anonymous> (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:211669)
+	at Socket.emit (events.js:200:13)
+	at addChunk (_stream_readable.js:294:12)
+	at readableAddChunk (_stream_readable.js:275:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-01-07 14:22:44.160] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-01-07 14:22:44.160] [exthost] [error] Error: <syntax> TypeScript Server Error (3.7.3)
+Debug Failure. Did not expect ClassDeclaration to have an Identifier in its trivia
+Error: Debug Failure. Did not expect ClassDeclaration to have an Identifier in its trivia
+    at addSyntheticNodes (tsserver.js:129745:30)
+    at createChildren (tsserver.js:129734:9)
+    at NodeObject.getChildren (tsserver.js:129678:56)
+    at Object.findChildOfKind (tsserver.js:102923:26)
+    at spanForNode (tsserver.js:113610:36)
+    at getOutliningSpanForNode (tsserver.js:113568:28)
+    at visitNonImportNode (tsserver.js:113425:28)
+    at addNodeOutliningSpans (tsserver.js:113400:21)
+    at Object.collectElements (tsserver.js:113388:13)
+    at Object.getOutliningSpans (tsserver.js:131024:50)
+    at IOSession.Session.getOutliningSpans (tsserver.js:140256:45)
+    at Session.handlers.ts.createMapFromTemplate._a.<computed> (tsserver.js:139352:61)
+    at tsserver.js:140929:88
+    at IOSession.Session.executeWithRequestId (tsserver.js:140920:28)
+    at IOSession.Session.executeCommand (tsserver.js:140929:33)
+    at IOSession.Session.onMessage (tsserver.js:140952:35)
+    at Interface.<anonymous> (tsserver.js:142267:27)
+    at Interface.emit (events.js:200:13)
+    at Interface._onLine (readline.js:314:10)
+    at Interface._normalWrite (readline.js:459:12)
+    at Socket.ondata (readline.js:170:10)
+    at Socket.emit (events.js:200:13)
+    at addChunk (_stream_readable.js:294:12)
+    at readableAddChunk (_stream_readable.js:275:11)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+	at Function.create (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:47388)
+	at h.dispatchResponse (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:206557)
+	at h.dispatchMessage (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:205455)
+	at /snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:204931
+	at l.fire (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:46:893)
+	at t.Reader.onLengthData (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:212021)
+	at Socket.<anonymous> (/snap/code/23/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension.js:1:211669)
+	at Socket.emit (events.js:200:13)
+	at addChunk (_stream_readable.js:294:12)
+	at readableAddChunk (_stream_readable.js:275:11)
+	at Socket.Readable.push (_stream_readable.js:210:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2020-01-07 15:04:08.226] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-01-07 15:04:08.226] [exthost] [error] Error: DisposableStore is missing...
+	at L._convertCompletionItem (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:584:351)
+	at /snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:583:984
+[2020-01-07 15:13:32.260] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-01-07 15:13:32.296] [exthost] [error] Error: DisposableStore is missing...
+	at L._convertCompletionItem (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:584:351)
+	at /snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:583:984
+[2020-01-07 15:15:23.821] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-01-07 15:15:23.821] [exthost] [error] Error: DisposableStore is missing...
+	at L._convertCompletionItem (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:584:351)
+	at /snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:583:984
+[2020-01-07 15:15:28.971] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-01-07 15:15:28.971] [exthost] [error] Error: DisposableStore is missing...
+	at L._convertCompletionItem (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:584:351)
+	at /snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:583:984
+[2020-01-07 15:19:18.250] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-01-07 15:19:18.250] [exthost] [error] Error: DisposableStore is missing...
+	at L._convertCompletionItem (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:584:351)
+	at /snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:583:984
+[2020-01-07 15:19:32.304] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-01-07 15:19:32.304] [exthost] [error] Error: DisposableStore is missing...
+	at L._convertCompletionItem (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:584:351)
+	at /snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:583:984
+[2020-01-07 15:22:24.270] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-01-07 15:22:24.271] [exthost] [error] Error: DisposableStore is missing...
+	at L._convertCompletionItem (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:584:351)
+	at /snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:583:984
+[2020-01-07 15:23:09.930] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2020-01-07 15:23:09.934] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/23/usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2020-01-07 15:23:09.968] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2020-01-07 15:23:09.968] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/23/usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-01-07 15:23:56.376] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-01-07 15:23:56.377] [exthost] [error] Error: DisposableStore is missing...
+	at L._convertCompletionItem (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:584:351)
+	at /snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:583:984

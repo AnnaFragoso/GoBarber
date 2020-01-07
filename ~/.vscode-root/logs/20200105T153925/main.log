@@ -19,3 +19,8 @@
 [2020-01-06 15:06:09.388] [main] [info] update#setState idle
 [2020-01-06 16:23:20.259] [main] [info] update#setState checking for updates
 [2020-01-06 16:23:20.295] [main] [info] update#setState idle
+[2020-01-06 17:23:20.273] [main] [info] update#setState checking for updates
+[2020-01-06 17:23:20.276] [main] [info] update#setState idle
+[2020-01-07 12:50:02.204] [main] [info] update#setState checking for updates
+[2020-01-07 12:50:02.211] [main] [info] update#setState idle
+[2020-01-07 13:36:08.729] [main] [error] [VS Code]: detected unresponsive
