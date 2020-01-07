@@ -360,3 +360,7 @@ Error: Debug Failure. Did not expect ClassDeclaration to have an Identifier in i
 [2020-01-07 15:23:56.377] [exthost] [error] Error: DisposableStore is missing...
 	at L._convertCompletionItem (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:584:351)
 	at /snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:583:984
+[2020-01-07 16:33:22.867] [exthost] [error] [vscode.typescript-language-features] provider FAILED
+[2020-01-07 16:33:22.867] [exthost] [error] Error: DisposableStore is missing...
+	at L._convertCompletionItem (/snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:584:351)
+	at /snap/code/23/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:583:984

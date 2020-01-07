@@ -216,3 +216,18 @@ GoBarber/src/config/redis.js: {}
 GoBarber/src/app/controllers/AppointmentController.js: {}
 GoBarber/src/app/jobs/CancellationMail.js: {}
 GoBarber/src/app/jobs/CancellationMail.js: Using EditorConfig core...
+GoBarber/src/app/jobs/CancellationMail.js: {}
+GoBarber/src/app/jobs/CancellationMail.js: {}
+GoBarber/src/app/views/emails/cancellation.hbs: {}
+GoBarber/src/app/jobs/CancellationMail.js: {}
+GoBarber/src/lib/Mail.js: {}
+GoBarber/src/app/jobs/CancellationMail.js: {}
+GoBarber/src/lib/Queue.js: {}
+GoBarber/src/lib/Queue.js: Using EditorConfig core...
+GoBarber/src/lib/Queue.js: {}
+GoBarber/src/lib/Queue.js: Using EditorConfig core...
+GoBarber/src/lib/Queue.js: {}
+GoBarber/src/lib/Queue.js: Using EditorConfig core...
+GoBarber/src/lib/Queue.js: {}
+GoBarber/src/lib/Queue.js: {}
+GoBarber/src/lib/Queue.js: {}
