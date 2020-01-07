@@ -2,8 +2,8 @@
     "telemetry.machineId": "e712fb7c932c686cd82f0c5f06df70fe3d4c1a3e05f39421eb2cae7f76a42671",
     "openedPathsList": {
         "workspaces3": [
-            "file:///home/anna/clinics-core-api",
-            "file:///home/anna/bootcamp2019/GoBarber"
+            "file:///home/anna/bootcamp2019/GoBarber",
+            "file:///home/anna/clinics-core-api"
         ],
         "files2": []
     },
@@ -1419,10 +1419,10 @@
             "folder": "file:///home/anna/bootcamp2019/GoBarber",
             "backupPath": "/home/anna/bootcamp2019/GoBarber/~/.vscode-root/Backups/98994023f19557a1983db18dd5d68e38",
             "uiState": {
-                "mode": 0,
-                "x": 67,
+                "mode": 1,
+                "x": 716,
                 "y": 55,
-                "width": 1299,
+                "width": 650,
                 "height": 713
             }
         },
