@@ -34,7 +34,7 @@ class AppointmentController {
                 },
             ],
         });
-        console.log(appointments.date)
+        
         return res.json(appointments);
     }
 
