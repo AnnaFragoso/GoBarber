@@ -1,4 +1,4 @@
-# GoBarber
+# :scissors: GoBarber
 
 This's an REST API project for scheduling appointments made with Express, Node JS.
 
