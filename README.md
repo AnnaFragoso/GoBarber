@@ -3,7 +3,7 @@
 This's an REST API project for scheduling appointments made with Express, Node JS.
 
 
-## Installing
+## Getting Started
 
 Clone the repository
 
@@ -11,7 +11,19 @@ Clone the repository
 git@github.com:AnnaFragoso/GoBarber.git
 ```
 
-## Getting Started
+Install the dependencies
+
+```
+npm install
+```
+
+Set the required informations in .env file
+
+Run the project
+```
+yarn start
+```
+
 
 ## Built with
 
@@ -45,3 +57,12 @@ git@github.com:AnnaFragoso/GoBarber.git
 
 ## Running the tests
 
+First step to test this API is downloading Insomnia
+```
+https://insomnia.rest/download/
+```
+
+Import the file
+```
+https://github.com/AnnaFragoso/GoBarber/tree/branch1/Insomnia
+```
